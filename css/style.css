@@ -1,0 +1,11 @@
+#root{
+    height : 100vh;
+    background-color: palevioletred;
+    overflow:auto;
+}
+ul{
+    border: 1px solid black;
+    font-size: x-large;
+    font-style: oblique;
+    color: blue;
+}
